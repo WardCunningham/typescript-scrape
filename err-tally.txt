@@ -1,0 +1,22 @@
+   1 site trouble HttpOther: error sending request for url : connection closed before message completed
+   1 site trouble HttpOther: error sending request for url : error trying to connect: tcp connect error: Network is unreachable (os error 51)
+   1 site trouble SyntaxError: Unexpected end of JSON input
+   1 site trouble SyntaxError: Unexpected token < in JSON at position 15
+   1 site trouble SyntaxError: Unexpected token < in JSON at position 5
+   1 site trouble SyntaxError: Unexpected token N in JSON at position 0
+   1 slug trouble HttpOther: error sending request for url : connection error: Operation timed out (os error 60)
+   2 slug trouble SyntaxError: Unexpected end of JSON input
+   2 slug trouble SyntaxError: Unexpected token < in JSON at position 0
+   3 site trouble TypeError: sitemap is not iterable
+   3 slug trouble SyntaxError: Unexpected token F in JSON at position 4
+   4 site trouble SyntaxError: Unexpected token T in JSON at position 0
+   4 slug trouble TypeError: Cannot read property 'site' of null
+   8 slug trouble HttpOther: error sending request for url : error trying to connect: dns error: failed to lookup address information: nodename nor servname provided, or not known
+  30 slug trouble HttpOther: error sending request for url : error trying to connect: tcp connect error: Connection refused (os error 61)
+  37 site trouble HttpOther: error sending request for url : error trying to connect: tcp connect error: Connection refused (os error 61)
+  39 site trouble SyntaxError: Unexpected token I in JSON at position 0
+  48 site trouble HttpOther: error sending request for url : error trying to connect: tcp connect error: Operation timed out (os error 60)
+  48 site trouble SyntaxError: Unexpected token < in JSON at position 0
+  50 slug trouble HttpOther: error sending request for url : error trying to connect: tcp connect error: Operation timed out (os error 60)
+  63 site trouble empty sitemap
+ 196 site trouble HttpOther: error sending request for url : error trying to connect: dns error: failed to lookup address information: nodename nor servname provided, or not known
